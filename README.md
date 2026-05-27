@@ -1,3 +1,13 @@
+Markdown
+# ACALCU 🧮
+
+[![Download Standalone App](https://img.shields.io/badge/Download-ACALCU_v1.0.0_(Executable)-green?style=for-the-badge&logo=windows)](https://github.com/Akhouri-Anmol-Kumar/ACALCU/blob/main/Acalcu.zip)
+
+> **⚡ Zero-Effort Launch:** Skip the folder navigation and manual script running. Click the shiny green button above to instantly grab the ready-to-run standalone deployment package for ACALCU!
+
+--------------------
+
+
 # 🧮 ACALCU
 
 ACALCU is a modern Windows 11-inspired calculator application built with Python and Tkinter by AKHOURI ANMOL KUMAR.
